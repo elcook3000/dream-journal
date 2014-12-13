@@ -1,4 +1,5 @@
 dream-journal
 =============
 
-My first repository on GitHub
+
+Carl Jung and Philip K Dick walk into a bar....
